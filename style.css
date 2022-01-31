@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(217, 237, 146);
+}
+
+h1 {
+    color: rgb(30, 96, 145); 
+    text-align: center;
+    font-style: oblique ;
+}
+h2{
+   font-size: 30px; 
+   text-align: justify left;
+   font-family: sans-serif;
+}
+.MeuNome {
+    color:rgb(118,200, 147); 
+    font-size: 30px; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+}
+.Habilidade1{
+font-size: 20px;
+}
+.Habilidade2{
+font-size: 25px;
+}
+.Habilidade3{
+    font-size: 28px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.Habilidade4{
+    font-size: 22px;
+}
